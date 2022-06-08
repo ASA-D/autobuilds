@@ -2,8 +2,8 @@ autobuilds
 ==========
 [![Build Status](https://travis-ci.org/vitasdk/autobuilds.svg?branch=master)](https://travis-ci.org/vitasdk/autobuilds)
 
-The latest builds can be found [here](https://github.com/vitasdk/autobuilds/releases/) for Windows (x64), Linux (x64), and OSX (Intel).
+Windows (x64)、Linux (x64)、OSX (Intel) 用の最新のビルドは[こちら](https://github.com/vitasdk/autobuilds/releases/) 
 
-The scripts used for building can be found in [buildscripts](https://github.com/vitasdk/buildscripts) and the Vita specific sources can be found in the [vitasdk](https://github.com/vitasdk) homepage.
+ビルドに使用したスクリプトは[こちら](https://github.com/vitasdk/buildscripts) 。Vita固有のソースは[vitasdk](https://github.com/vitasdk)のホームページにあります。
 
-This REPO will be DEPRECATED in the near future
+このリポジトリは近日中に削除される予定です。
